@@ -16,3 +16,5 @@
 *.mod.o
 *.symvers
 *.order
+*.cache.mk
+*.o.ur-safe
